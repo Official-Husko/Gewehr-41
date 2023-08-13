@@ -13,8 +13,8 @@
   </loadBefore>
   <loadAfter>
     <li>Ludeon.RimWorld</li>
-		<li>CETeam.CombatExtended</li>
+    <li>CETeam.CombatExtended</li>
   </loadAfter>
-  <manifestUri>https://github.com/Official-Husko/The-Lone-Wolf-Weapon-Package/blob/development/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/Official-Husko/The-Lone-Wolf-Weapon-Package/releases</downloadUri>
+  <manifestUri>https://github.com/Official-Husko/Gewehr-41/blob/main/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/Official-Husko/Gewehr-41/releases</downloadUri>
 </Manifest>
