@@ -15,5 +15,5 @@ Published Officially on the following Platforms:
 [1]: https://store.steampowered.com/app/294100/RimWorld/
 [2]: https://github.com/Official-Husko/Gewehr-41/blob/main/Patches/ce_patch.xml
 [3]: https://github.com/Official-Husko/Gewehr-41
-[4]: https://steamcommunity.com/
-[5]: nexusmods.com
+[4]: https://steamcommunity.com/sharedfiles/filedetails/?id=3019688356
+[5]: https://www.nexusmods.com/rimworld/mods/449
