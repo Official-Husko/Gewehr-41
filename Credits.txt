@@ -1,0 +1,11 @@
+Background Image: Daniel Leone on Unsplash (https://unsplash.com/photos/v7daTKlZzaw)
+Art: Official Husko
+Code: Official Husko
+
+
+Tools Used:
+
+Preview: Gimp
+Art: Illustrator & Inkscape
+Code: VSCodium
+References: DuckDuckGo

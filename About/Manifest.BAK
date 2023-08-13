@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>husko.weapons.gewehr41</identifier>
+  <version>1.0.0</version>
+  <targetVersions>
+    <li>1.4.0</li>
+  </targetVersions>
+  <dependencies>
+  </dependencies>
+  <incompatibleWith>
+  </incompatibleWith>
+  <loadBefore>
+  </loadBefore>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+		<li>CETeam.CombatExtended</li>
+  </loadAfter>
+  <manifestUri>https://github.com/Official-Husko/The-Lone-Wolf-Weapon-Package/blob/development/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/Official-Husko/The-Lone-Wolf-Weapon-Package/releases</downloadUri>
+</Manifest>
